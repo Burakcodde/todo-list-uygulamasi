@@ -29,6 +29,7 @@ pip install colorama
 Kullanım
 Uygulamayı çalıştırmak için terminalde aşağıdaki komutu kullanın:
 
+```sh
 python todo.py
 
 Uygulama başlatıldığında aşağıdaki menü ile karşılaşacaksınız:
