@@ -25,15 +25,18 @@ Bu proje, terminal tabanlı bir Todo List uygulamasıdır. Kullanıcılar görev
 
 ```sh
 pip install colorama
+```
 
 Kullanım
 Uygulamayı çalıştırmak için terminalde aşağıdaki komutu kullanın:
 
 ```sh
 python todo.py
+```
 
 Uygulama başlatıldığında aşağıdaki menü ile karşılaşacaksınız:
 
+```sh
 Todo List Uygulaması
 1. Görev Ekle
 2. Görevleri Listele
@@ -41,6 +44,7 @@ Todo List Uygulaması
 4. Görev Tamamla
 5. Çıkış
 Seçiminizi yapın:
+```
 
 Görev Ekleme
 Görev eklemek için 1 tuşuna basın ve ardından eklemek istediğiniz görevi ve öncelik seviyesini girin.
