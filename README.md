@@ -46,17 +46,17 @@ Todo List Uygulaması
 Seçiminizi yapın:
 ```
 
-Görev Ekleme
+# Görev Ekleme
 Görev eklemek için 1 tuşuna basın ve ardından eklemek istediğiniz görevi ve öncelik seviyesini girin.
 
-Görevleri Listeleme
+# Görevleri Listeleme
 Görevleri listelemek için 2 tuşuna basın. Görevler, öncelik seviyeleri ve tamamlanma durumları ile birlikte listelenecektir.
 
-Görev Silme
+# Görev Silme
 Görev silmek için 3 tuşuna basın ve ardından silmek istediğiniz görev numarasını girin.
 
-Görev Tamamlama
+# Görev Tamamlama
 Görev tamamlamak için 4 tuşuna basın ve ardından tamamlamak istediğiniz görev numarasını girin.
 
-Çıkış
+# Çıkış
 Uygulamadan çıkmak için 5 tuşuna basın.
